@@ -12,3 +12,7 @@ Hyderabad AQI - [code](https://adisen99.github.io/pages/aqi_hyderabad)
 Kolkata AQI - [code](https://adisen99.github.io/pages/aqi_kolkata)
 
 Lucknow AQI - [code](https://adisen99.github.io/pages/aqi_lucknow)
+
+Mumbai AQI - [code](https://adisen99.github.io/pages/aqi_mumbai)
+
+Pune AQI - [code](https://adisen99.github.io/pages/aqi_pune)
