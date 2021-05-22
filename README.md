@@ -15,4 +15,6 @@ Lucknow AQI - [code](https://adisen99.github.io/pages/aqi_lucknow)
 
 Mumbai AQI - [code](https://adisen99.github.io/pages/aqi_mumbai)
 
+Patna AQI - [code](https://adisen99.github.io/pages/aqi_patna)
+
 Pune AQI - [code](https://adisen99.github.io/pages/aqi_pune)
