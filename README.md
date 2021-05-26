@@ -7,6 +7,10 @@ Bengaluru AQI - [code](https://adisen99.github.io/pages/aqi_bengaluru)
 
 Delhi AQI - [code](https://adisen99.github.io/pages/aqi_delhi)
 
+Delhi PBL - [code](https://adisen99.github.io/pages/pblh_delh)
+
+Delhi Met. Data - [code](https://adisen99.github.io/pages/met_data)
+
 Hyderabad AQI - [code](https://adisen99.github.io/pages/aqi_hyderabad)
 
 Kolkata AQI - [code](https://adisen99.github.io/pages/aqi_kolkata)
